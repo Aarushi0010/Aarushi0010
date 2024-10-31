@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aarushi Mahajan</h1>
+<h1 align="center">Hi 👋 I'm Aarushi Mahajan</h1>
 <h3 align="center">A software developer who is always excited to learn and improve.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarushi0010&label=Profile%20views&color=0e75b6&style=flat" alt="aarushi0010" /> </p>
