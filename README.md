@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarushi0010&label=Profile%20views&color=0e75b6&style=flat" alt="aarushi0010" /> </p>
 
-- 🔭 I’m currently working on **GoldenYearsAI**
+- 🔭 I’m currently working on **OneStop Retirement**
 
-- 🌱 I’m currently learning **Flutter , Dart**
+- 🌱 I’m currently learning **Flask and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aarushi0010](https://github.com/Aarushi0010)
 
