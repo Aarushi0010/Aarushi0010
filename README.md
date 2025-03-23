@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **OneStop Retirement**
 
-- 🌱 I’m currently learning **Flask and Machine Learning**
+- 🌱 I’m currently learning **Django and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aarushi0010](https://github.com/Aarushi0010)
 
